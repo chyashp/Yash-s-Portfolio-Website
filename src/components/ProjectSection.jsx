@@ -75,7 +75,7 @@ const projectsData = [
     id: 8,
     title: "React Portfolio website",
     description: "Portfolio website made with React and Framer-motion",
-    image: "/images/react-portfolio.png",
+    image: "/images/portfolio.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/chyashp/yash-portfolio-website.git",
     previewUrl: "https://yash-portfolio-website.vercel.app/",
