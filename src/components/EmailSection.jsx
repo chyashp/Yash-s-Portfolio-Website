@@ -11,7 +11,7 @@ const EmailSection = () => {
       className="flex justify-center items-center  my-6 md:my-6 py-12 gap-4"
     >
       <div className="text-center">
-        <h5 className="text-2xl font-bold text-white my-2">Let's Connect</h5>
+        <h5 className="text-2xl font-bold text-white my-2">Let&apos;s Connect</h5>
         <p className="text-[#ADB7BE] text-lg mb-4 max-w-md">
           I&apos;m currently looking for new opportunities, my inbox is always
           open. Whether you have a question or just want to say hi, I&apos;ll
