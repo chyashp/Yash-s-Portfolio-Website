@@ -36,10 +36,10 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6">
-            "As a passionate front-end developer with experience in building
-            React projects, I'm eager to bring my skills to a dynamic team. I'm
+            As a passionate front-end developer with experience in building
+            React projects, I&apos;m eager to bring my skills to a dynamic team. I&apos;m
             dedicated to creating responsive, user-friendly interfaces that
-            deliver a seamless user experience."
+            deliver a seamless user experience.
           </p>
           <div>
             <Link
