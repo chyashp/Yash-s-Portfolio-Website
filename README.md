@@ -18,7 +18,7 @@ You can view the live version of the portfolio here: [Yash's Portfolio Website](
 
 ## Technologies Used
 
-- **Frontend**: React.js
+- **Frontend**: Next.js
 - **Styling**: CSS (or specify if you're using any CSS framework like Tailwind, Bootstrap, etc.)
 - **Deployment**: Vercel
 
