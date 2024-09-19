@@ -53,3 +53,40 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/chyashp/Yash-s-Portfolio-Website.git
+   ```
+2. Navigate into the project directory:
+
+```bash
+cd Yash-s-Portfolio-Website
+```
+3. Install the dependencies:
+
+### Running Locally
+```
+npm run dev
+```
+
+This will start the development server, and you can view the website by navigating to http://localhost:3000 in your browser.
+
+### Building for Production
+To create an optimized build of the project for production:
+
+```
+npm run build
+```
+
+### Project Structure
+```
+Yash-s-Portfolio-Website/
+├── public/           # Static files like images and favicon
+├── src/              # Main source code for the portfolio website
+│   ├── components/   # React components used across the site
+│   ├── pages/        # Main pages of the website
+│   ├── styles/       # CSS files for styling (if applicable)
+│   └── App.js        # Main app component
+├── .gitignore        # Files and directories to ignore in git
+├── package.json      # Project dependencies and scripts
+└── README.md         # Project documentation
+
+```
+
