@@ -30,11 +30,9 @@ You can view the live version of the portfolio here: [Yash's Portfolio Website](
    
 3. **Interactive User Interface**: Includes modern animations, hover effects, and transitions to enhance the user experience. Smooth page transitions and subtle animations provide a professional feel.
 
-4. **Contact Form**: A simple, fully-functional contact form where users can send messages directly. The form validates input fields and ensures that all necessary information is provided before submitting.
+4. **SEO Optimization**: Basic SEO features like meta tags, alt text for images, and responsive design principles are integrated to improve search engine ranking.
 
-5. **SEO Optimization**: Basic SEO features like meta tags, alt text for images, and responsive design principles are integrated to improve search engine ranking.
-
-6. **Performance Optimization**: Techniques such as lazy loading of images and efficient CSS have been used to improve page load speed.
+5. **Performance Optimization**: Techniques such as lazy loading of images and efficient CSS have been used to improve page load speed.
 
 ## Getting Started
 
